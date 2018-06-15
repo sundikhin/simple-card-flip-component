@@ -6,7 +6,7 @@ You can find the most recent version of create-react-app guide [here](https://gi
 Simple react card component that flips to reveal a back side.
 
 ## To run:
-yarn install
-yarn start
+`yarn install`
+`yarn start`
 
 [![https://gyazo.com/7eea7b4d8da2bf0fcf3b3e2dd5f4bad4](https://i.gyazo.com/7eea7b4d8da2bf0fcf3b3e2dd5f4bad4.gif)](https://gyazo.com/7eea7b4d8da2bf0fcf3b3e2dd5f4bad4)
