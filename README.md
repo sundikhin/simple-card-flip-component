@@ -8,3 +8,5 @@ Simple react card component that flips to reveal a back side.
 ## To run:
 yarn install
 yarn start
+
+![App](https://gyazo.com/7eea7b4d8da2bf0fcf3b3e2dd5f4bad4)
